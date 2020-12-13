@@ -7,4 +7,7 @@ public class Vote {
     private Integer id;
     private Integer userId;
     private LocalDateTime created;
+    private Integer restaurantId;
+
+
 }
